@@ -7,58 +7,64 @@ A full-stack blogging platform built using **Node.js**, **Express.js**, **MongoD
 ## 🚀 Features
 
 ### 🔐 User Authentication
-- JWT-based authentication  
-- Secure password hashing  
-- Cookie-based session handling  
-- Login / Signup / Logout functionality  
+- JWT-based authentication
+- Secure password hashing
+- Cookie-based session handling
+- Login / Signup / Logout functionality
 
 ### 📝 Blog Management
-- Create, view, and list blogs  
-- Author-based blog ownership  
-- Dynamic rendering using EJS templates  
+- Create, view, and list blogs
+- Author-based blog ownership
+- Dynamic rendering using EJS templates
 
 ### 🖼️ Image Uploads
-- Upload blog cover images using Multer  
-- Server-side validation for uploads  
+- Upload blog cover images using Multer
+- Server-side validation for uploads
 
 ### 🛡️ Protected Routes
-- Only authenticated users can create blogs  
-- Authorization handled via middleware  
+- Only authenticated users can create blogs
+- Authorization handled via middleware
 
 ### ⚙️ Middleware Architecture
-- Authentication middleware  
-- Global state handling using `res.locals`  
-- Error-safe request flow  
+- Authentication middleware
+- Global state handling using `res.locals`
+- Error-safe request flow
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- EJS (Embedded JavaScript Templates)  
-- HTML, CSS, Bootstrap  
+- EJS (Embedded JavaScript Templates)
+- HTML, CSS, Bootstrap
 
 ### Backend
-- Node.js  
-- Express.js  
+- Node.js
+- Express.js
 
 ### Database
-- MongoDB (Mongoose ODM)  
+- MongoDB (Mongoose ODM)
 
 ### Authentication & Security
-- JSON Web Tokens (JWT)  
-- Cookies  
-- Crypto module for password hashing  
+- JSON Web Tokens (JWT)
+- Cookies
+- Crypto module for password hashing
 
 ### Other Tools
-- Multer (File Uploads)  
-- Git & GitHub  
+- Multer (File Uploads)
+- Git & GitHub
 
 ---
 
-## ⚙️ Installation & Setup
+## ❓ Why This Project
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/PriyanshuKansal82/Blogging-Application.git
-cd Blogging-Application
+This project was built as a **standalone full-stack application** to gain hands-on experience with **real-world backend development**.
+
+- Understand end-to-end application flow
+- Implement secure authentication using JWT
+- Design RESTful routes and middleware
+- Work with MongoDB schema relationships
+- Handle file uploads and server-side rendering
+
+
+
