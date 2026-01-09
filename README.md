@@ -43,37 +43,6 @@ Other Tools
 Multer (File Uploads)
 Git & GitHub
 
-📂 Project Structure
-Blogging-Application/
-│
-├── models/
-│   ├── user.js
-│   └── blog.js
-│
-├── routes/
-│   ├── user.js
-│   └── blog.js
-│
-├── middlewares/
-│   └── authentication.js
-│
-├── services/
-│   └── authentication.js
-│
-├── views/
-│   ├── partials/
-│   ├── home.ejs
-│   ├── signin.ejs
-│   ├── signup.ejs
-│   └── addBlog.ejs
-│
-├── public/
-│   ├── uploads/
-│   └── images/
-│
-├── index.js
-├── package.json
-└── README.md
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
